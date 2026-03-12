@@ -3,6 +3,7 @@
 Este é o repositório base para o teste técnico de desenvolvedor WordPress Senior. O projeto já está configurado com as ferramentas base necessárias: **Bedrock, Sage 11, Docker, e um banco de dados pré-configurado com ACF ativado**.
 
 ## O que já está pronto
+- ✅ Arquivo de Design `teste-tecnico.fig` disponível na pasta `figma/`.
 - ✅ Ambiente Local rodando em Docker (PHP 8.3-apache + MariaDB).
 - ✅ WordPress rodando como uma aplicação `Bedrock` (`web/app`).
 - ✅ Setup limpo de compilação Front-End rodando `Sage 11` (pasta `web/app/themes/portfolio-theme`).
